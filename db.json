@@ -5,11 +5,11 @@
         "time": "12/08/2021 08:34",
         "description": "Description News",
         "content": "Content News",
-        "news_type": "EVN"
+        "news_type": "PPN"
     },
     {
         "id": 2,
-        "title": "Tin sự kiện 3",
+        "title": "Tin sự kiện 2",
         "image": "/images/news1.png",
         "time": "12/08/2021 08:34",
         "description": "Description News",
@@ -18,7 +18,7 @@
     },
     {
         "id": 3,
-        "title": "Tin sự kiện 4",
+        "title": "Tin sự kiện 3",
         "image": "/images/news1.png",
         "time": "12/08/2021 08:34",
         "description": "Description News",
@@ -27,7 +27,7 @@
     },
     {
         "id": 4,
-        "title": "Tin sự kiện 5",
+        "title": "Tin sự kiện 4",
         "image": "/images/news1.png",
         "time": "12/08/2021 08:34",
         "description": "Description News",
@@ -36,13 +36,14 @@
     },
     {
         "id": 5,
-        "title": "Tin sự kiện 1",
+        "title": "Tin sự kiện 5",
         "image": "/images/news1.png",
         "time": "12/08/2021 08:34",
         "description": "Description News",
         "content": "Content News",
-        "news_type": "EVN"
+        "news_type": "PPN"
     },
+    
     {
         "id": 6,
         "title": "Tin sự kiện 1",
