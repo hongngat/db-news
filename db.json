@@ -141,4 +141,131 @@
       "icon": "/images/tro-choi.png",
       "name": "Trò chơi"
     }
-  ]}
+  ],
+"Medias":[{
+        "id":1,
+        "title":"Mandala 247 SOJO HOTEL GA HANOI",
+        "image":[
+            {"photo":"/images/media1.png"},
+            {"photo":"/images/media2.png"},
+            {"photo":"/images/media3.png"},
+            {"photo":"/images/media4.png"},
+            {"photo":"/images/media5.png"},
+            {"photo":"/images/media6.png"}
+            ],
+        "avatar":"/images/media1.png",
+        "province_code":"tinh_bac_ninh",
+        "service_code":"LO"
+    },{
+        "id":2,
+        "title":"Mandala 247 SOJO HOTEL GA HANOI",
+        "image":[
+            {"photo":"/images/media1.png"},
+            {"photo":"/images/media2.png"},
+            {"photo":"/images/media3.png"},
+            {"photo":"/images/media4.png"},
+            {"photo":"/images/media5.png"},
+            {"photo":"/images/media6.png"}
+            ],
+        "avatar":"/images/media1.png",
+        "province_code":"tinh_bac_giang",
+        "service_code":"OT"
+    },{
+        "id":3,
+        "title":"Mandala 247 SOJO HOTEL GA HANOI",
+        "image":[
+            {"photo":"/images/media1.png"},
+            {"photo":"/images/media2.png"},
+            {"photo":"/images/media3.png"},
+            {"photo":"/images/media4.png"},
+            {"photo":"/images/media5.png"},
+            {"photo":"/images/media6.png"}
+            ],
+        "avatar":"/images/media1.png",
+        "province_code":"tinh_hai_duong",
+        "service_code":"LO"
+    },{
+        "id":4,
+        "title":"Mandala 247 SOJO HOTEL GA HANOI",
+        "image":[
+            {"photo":"/images/media1.png"},
+            {"photo":"/images/media2.png"},
+            {"photo":"/images/media3.png"},
+            {"photo":"/images/media4.png"},
+            {"photo":"/images/media5.png"},
+            {"photo":"/images/media6.png"}
+            ],
+        "avatar":"/images/media1.png",
+        "province_code":"tinh_bac_giang",
+        "service_code":"EV"
+    },{
+        "id":5,
+        "title":"Mandala 247 SOJO HOTEL GA HANOI",
+        "image":[
+            {"photo":"/images/media1.png"},
+            {"photo":"/images/media2.png"},
+            {"photo":"/images/media3.png"},
+            {"photo":"/images/media4.png"},
+            {"photo":"/images/media5.png"},
+            {"photo":"/images/media6.png"}
+            ],
+        "avatar":"/images/media1.png",
+        "province_code":"tinh_bac_ninh",
+        "service_code":"EV"
+    },{
+        "id":6,
+        "title":"Mandala 247 SOJO HOTEL GA HANOI",
+        "image":[
+            {"photo":"/images/media1.png"},
+            {"photo":"/images/media2.png"},
+            {"photo":"/images/media3.png"},
+            {"photo":"/images/media4.png"},
+            {"photo":"/images/media5.png"},
+            {"photo":"/images/media6.png"}
+            ],
+        "avatar":"/images/media1.png",
+        "province_code":"tinh_hai_duong",
+        "service_code":"EV"
+    },{
+        "id":7,
+        "title":"Mandala 247 SOJO HOTEL GA HANOI",
+        "image":[
+            {"photo":"/images/media1.png"},
+            {"photo":"/images/media2.png"},
+            {"photo":"/images/media3.png"},
+            {"photo":"/images/media4.png"},
+            {"photo":"/images/media5.png"},
+            {"photo":"/images/media6.png"}
+            ],
+        "avatar":"/images/media1.png",
+        "province_code":"tinh_hai_duong",
+        "service_code":"GY"
+    },{
+        "id":8,
+        "title":"Mandala 247 SOJO HOTEL GA HANOI",
+        "image":[
+            {"photo":"/images/media1.png"},
+            {"photo":"/images/media2.png"},
+            {"photo":"/images/media3.png"},
+            {"photo":"/images/media4.png"},
+            {"photo":"/images/media5.png"},
+            {"photo":"/images/media6.png"}
+            ],
+        "avatar":"/images/media1.png",
+        "province_code":"tinh_bac_giang",
+        "service_code":"GY"
+    },{
+        "id":9,
+        "title":"Mandala 247 SOJO HOTEL GA HANOI",
+        "image":[
+            {"photo":"/images/media1.png"},
+            {"photo":"/images/media2.png"},
+            {"photo":"/images/media3.png"},
+            {"photo":"/images/media4.png"},
+            {"photo":"/images/media5.png"},
+            {"photo":"/images/media6.png"}
+            ],
+        "avatar":"/images/media1.png",
+        "province_code":"tinh_bac_ninh",
+        "service_code":"GY"
+    }]}
