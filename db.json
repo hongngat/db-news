@@ -89,4 +89,56 @@
         "content": "Content News",
         "news_type": "EVN"
     }
-    ]}
+    ],
+"ServiceHotels": [
+    {
+      "id": 1,
+      "icon": "/images/wifi.png",
+      "name": "Wifi"
+    },
+    {
+     "id": 2,
+      "icon": "/images/bar.png",
+      "name": "Bar"
+    },
+    {
+      "id": 3,
+      "icon": "/images/nha-hang.png",
+      "name": "Nhà Hàng"
+    },
+    {
+      "id": 4,
+      "icon": "/images/kiosk.png",
+      "name": "Kiosk"
+    },
+    {
+      "id": 5,
+      "icon": "/images/tu-do-ca-nhan.png",
+      "name": "Tủ đồ cá nhân"
+    },
+    {
+      "id": 6,
+      "icon": "/images/giat-la.png",
+      "name": "Giặt là"
+    },
+    {
+      "id": 7,
+      "icon": "/images/thu-gian.png",
+      "name": "Thư giãn"
+    },
+    {
+      "id": 8,
+      "icon": "/images/gym (2).png",
+      "name": "Gym"
+    },
+    {
+     "id": 9,
+      "icon": "/images/may-ban-hang-tu-dong.png",
+      "name": "Máy bán hàng tự động"
+    },
+    {
+      "id": 10,
+      "icon": "/images/tro-choi.png",
+      "name": "Trò chơi"
+    }
+  ]}
