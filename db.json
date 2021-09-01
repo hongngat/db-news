@@ -1,271 +1,489 @@
-{"News" : [{
-        "id": 1,
-        "title": "Tin sự kiện 1",
-        "image": "/images/news1.png",
-        "time": "12/08/2021 08:34",
-        "description": "Description News",
-        "content": "Content News",
-        "news_type": "PPN"
-    },
-    {
-        "id": 2,
-        "title": "Tin sự kiện 2",
-        "image": "/images/news1.png",
-        "time": "12/08/2021 08:34",
-        "description": "Description News",
-        "content": "Content News",
-        "news_type": "PPN"
-    },
-    {
-        "id": 3,
-        "title": "Tin sự kiện 3",
-        "image": "/images/news1.png",
-        "time": "12/08/2021 08:34",
-        "description": "Description News",
-        "content": "Content News",
-        "news_type": "PPN"
-    },
-    {
-        "id": 4,
-        "title": "Tin sự kiện 4",
-        "image": "/images/news1.png",
-        "time": "12/08/2021 08:34",
-        "description": "Description News",
-        "content": "Content News",
-        "news_type": "PPN"
-    },
-    {
-        "id": 5,
-        "title": "Tin sự kiện 5",
-        "image": "/images/news1.png",
-        "time": "12/08/2021 08:34",
-        "description": "Description News",
-        "content": "Content News",
-        "news_type": "PPN"
-    },
-    
-    {
-        "id": 6,
-        "title": "Tin sự kiện 1",
-        "image": "/images/news1.png",
-        "time": "12/08/2021 08:34",
-        "description": "Description News",
-        "content": "Content News",
-        "news_type": "EVN"
-    },
-    {
-        "id": 7,
-        "title": "Tin sự kiện 2",
-        "image": "/images/news1.png",
-        "time": "12/08/2021 08:34",
-        "description": "Description News",
-        "content": "Content News",
-        "news_type": "EVN"
-    },
-    {
-        "id": 8,
-        "title": "Tin sự kiện 3",
-        "image": "/images/news1.png",
-        "time": "12/08/2021 08:34",
-        "description": "Description News",
-        "content": "Content News",
-        "news_type": "EVN"
-    },
-    {
-        "id": 9,
-        "title": "Tin sự kiện 4",
-        "image": "/images/news1.png",
-        "time": "12/08/2021 08:34",
-        "description": "Description News",
-        "content": "Content News",
-        "news_type": "EVN"
-    },
-    {
-        "id": 10,
-        "title": "Tin sự kiện 5",
-        "image": "/images/news1.png",
-        "time": "12/08/2021 08:34",
-        "description": "Description News",
-        "content": "Content News",
-        "news_type": "EVN"
-    }
+{
+    "News": [
+        {
+            "id": 1,
+            "title": "Tin sự kiện 1",
+            "image": "/images/news1.png",
+            "time": "12/08/2021 08:34",
+            "description": "Description News",
+            "content": "Content News",
+            "news_type": "PPN"
+        },
+        {
+            "id": 2,
+            "title": "Tin sự kiện 2",
+            "image": "/images/news1.png",
+            "time": "12/08/2021 08:34",
+            "description": "Description News",
+            "content": "Content News",
+            "news_type": "PPN"
+        },
+        {
+            "id": 3,
+            "title": "Tin sự kiện 3",
+            "image": "/images/news1.png",
+            "time": "12/08/2021 08:34",
+            "description": "Description News",
+            "content": "Content News",
+            "news_type": "PPN"
+        },
+        {
+            "id": 4,
+            "title": "Tin sự kiện 4",
+            "image": "/images/news1.png",
+            "time": "12/08/2021 08:34",
+            "description": "Description News",
+            "content": "Content News",
+            "news_type": "PPN"
+        },
+        {
+            "id": 5,
+            "title": "Tin sự kiện 5",
+            "image": "/images/news1.png",
+            "time": "12/08/2021 08:34",
+            "description": "Description News",
+            "content": "Content News",
+            "news_type": "PPN"
+        },
+        {
+            "id": 6,
+            "title": "Tin sự kiện 1",
+            "image": "/images/news1.png",
+            "time": "12/08/2021 08:34",
+            "description": "Description News",
+            "content": "Content News",
+            "news_type": "EVN"
+        },
+        {
+            "id": 7,
+            "title": "Tin sự kiện 2",
+            "image": "/images/news1.png",
+            "time": "12/08/2021 08:34",
+            "description": "Description News",
+            "content": "Content News",
+            "news_type": "EVN"
+        },
+        {
+            "id": 8,
+            "title": "Tin sự kiện 3",
+            "image": "/images/news1.png",
+            "time": "12/08/2021 08:34",
+            "description": "Description News",
+            "content": "Content News",
+            "news_type": "EVN"
+        },
+        {
+            "id": 9,
+            "title": "Tin sự kiện 4",
+            "image": "/images/news1.png",
+            "time": "12/08/2021 08:34",
+            "description": "Description News",
+            "content": "Content News",
+            "news_type": "EVN"
+        },
+        {
+            "id": 10,
+            "title": "Tin sự kiện 5",
+            "image": "/images/news1.png",
+            "time": "12/08/2021 08:34",
+            "description": "Description News",
+            "content": "Content News",
+            "news_type": "EVN"
+        }
     ],
-"ServiceHotels": [
-    {
-      "id": 1,
-      "icon": "/images/wifi.png",
-      "name": "Wifi"
-    },
-    {
-     "id": 2,
-      "icon": "/images/bar.png",
-      "name": "Bar"
-    },
-    {
-      "id": 3,
-      "icon": "/images/nha-hang.png",
-      "name": "Nhà Hàng"
-    },
-    {
-      "id": 4,
-      "icon": "/images/kiosk.png",
-      "name": "Kiosk"
-    },
-    {
-      "id": 5,
-      "icon": "/images/tu-do-ca-nhan.png",
-      "name": "Tủ đồ cá nhân"
-    },
-    {
-      "id": 6,
-      "icon": "/images/giat-la.png",
-      "name": "Giặt là"
-    },
-    {
-      "id": 7,
-      "icon": "/images/thu-gian.png",
-      "name": "Thư giãn"
-    },
-    {
-      "id": 8,
-      "icon": "/images/gym (2).png",
-      "name": "Gym"
-    },
-    {
-     "id": 9,
-      "icon": "/images/may-ban-hang-tu-dong.png",
-      "name": "Máy bán hàng tự động"
-    },
-    {
-      "id": 10,
-      "icon": "/images/tro-choi.png",
-      "name": "Trò chơi"
-    }
-  ],
-"Medias":[{
-        "id":1,
-        "title":"Mandala 247 SOJO HOTEL GA HANOI",
-        "image":[
-            {"photo":"/images/media1.png"},
-            {"photo":"/images/media2.png"},
-            {"photo":"/images/media3.png"},
-            {"photo":"/images/media4.png"},
-            {"photo":"/images/media5.png"},
-            {"photo":"/images/media6.png"}
+    "ServiceHotels": [
+        {
+            "id": 1,
+            "icon": "/images/wifi.png",
+            "name": "Wifi"
+        },
+        {
+            "id": 2,
+            "icon": "/images/bar.png",
+            "name": "Bar"
+        },
+        {
+            "id": 3,
+            "icon": "/images/nha-hang.png",
+            "name": "Nhà Hàng"
+        },
+        {
+            "id": 4,
+            "icon": "/images/kiosk.png",
+            "name": "Kiosk"
+        },
+        {
+            "id": 5,
+            "icon": "/images/tu-do-ca-nhan.png",
+            "name": "Tủ đồ cá nhân"
+        },
+        {
+            "id": 6,
+            "icon": "/images/giat-la.png",
+            "name": "Giặt là"
+        },
+        {
+            "id": 7,
+            "icon": "/images/thu-gian.png",
+            "name": "Thư giãn"
+        },
+        {
+            "id": 8,
+            "icon": "/images/gym (2).png",
+            "name": "Gym"
+        },
+        {
+            "id": 9,
+            "icon": "/images/may-ban-hang-tu-dong.png",
+            "name": "Máy bán hàng tự động"
+        },
+        {
+            "id": 10,
+            "icon": "/images/tro-choi.png",
+            "name": "Trò chơi"
+        }
+    ],
+    "Medias": [
+        {
+            "id": 1,
+            "title": "Mandala 247 SOJO HOTEL GA HANOI",
+            "image": [
+                {
+                    "photo": "/images/media1.png"
+                },
+                {
+                    "photo": "/images/media2.png"
+                },
+                {
+                    "photo": "/images/media3.png"
+                },
+                {
+                    "photo": "/images/media4.png"
+                },
+                {
+                    "photo": "/images/media5.png"
+                },
+                {
+                    "photo": "/images/media6.png"
+                }
             ],
-        "avatar":"/images/media1.png",
-        "province_code":"tinh_bac_ninh",
-        "service_code":"LO"
-    },{
-        "id":2,
-        "title":"Mandala 247 SOJO HOTEL GA HANOI",
-        "image":[
-            {"photo":"/images/media1.png"},
-            {"photo":"/images/media2.png"},
-            {"photo":"/images/media3.png"},
-            {"photo":"/images/media4.png"},
-            {"photo":"/images/media5.png"},
-            {"photo":"/images/media6.png"}
+            "avatar": "/images/media1.png",
+            "province_code": "tinh_bac_ninh",
+            "service_code": "LO"
+        },
+        {
+            "id": 2,
+            "title": "Mandala 247 SOJO HOTEL GA HANOI",
+            "image": [
+                {
+                    "photo": "/images/media1.png"
+                },
+                {
+                    "photo": "/images/media2.png"
+                },
+                {
+                    "photo": "/images/media3.png"
+                },
+                {
+                    "photo": "/images/media4.png"
+                },
+                {
+                    "photo": "/images/media5.png"
+                },
+                {
+                    "photo": "/images/media6.png"
+                }
             ],
-        "avatar":"/images/media1.png",
-        "province_code":"tinh_bac_giang",
-        "service_code":"OT"
-    },{
-        "id":3,
-        "title":"Mandala 247 SOJO HOTEL GA HANOI",
-        "image":[
-            {"photo":"/images/media1.png"},
-            {"photo":"/images/media2.png"},
-            {"photo":"/images/media3.png"},
-            {"photo":"/images/media4.png"},
-            {"photo":"/images/media5.png"},
-            {"photo":"/images/media6.png"}
+            "avatar": "/images/media1.png",
+            "province_code": "tinh_bac_giang",
+            "service_code": "OT"
+        },
+        {
+            "id": 3,
+            "title": "Mandala 247 SOJO HOTEL GA HANOI",
+            "image": [
+                {
+                    "photo": "/images/media1.png"
+                },
+                {
+                    "photo": "/images/media2.png"
+                },
+                {
+                    "photo": "/images/media3.png"
+                },
+                {
+                    "photo": "/images/media4.png"
+                },
+                {
+                    "photo": "/images/media5.png"
+                },
+                {
+                    "photo": "/images/media6.png"
+                }
             ],
-        "avatar":"/images/media1.png",
-        "province_code":"tinh_hai_duong",
-        "service_code":"LO"
-    },{
-        "id":4,
-        "title":"Mandala 247 SOJO HOTEL GA HANOI",
-        "image":[
-            {"photo":"/images/media1.png"},
-            {"photo":"/images/media2.png"},
-            {"photo":"/images/media3.png"},
-            {"photo":"/images/media4.png"},
-            {"photo":"/images/media5.png"},
-            {"photo":"/images/media6.png"}
+            "avatar": "/images/media1.png",
+            "province_code": "tinh_hai_duong",
+            "service_code": "LO"
+        },
+        {
+            "id": 4,
+            "title": "Mandala 247 SOJO HOTEL GA HANOI",
+            "image": [
+                {
+                    "photo": "/images/media1.png"
+                },
+                {
+                    "photo": "/images/media2.png"
+                },
+                {
+                    "photo": "/images/media3.png"
+                },
+                {
+                    "photo": "/images/media4.png"
+                },
+                {
+                    "photo": "/images/media5.png"
+                },
+                {
+                    "photo": "/images/media6.png"
+                }
             ],
-        "avatar":"/images/media1.png",
-        "province_code":"tinh_bac_giang",
-        "service_code":"EV"
-    },{
-        "id":5,
-        "title":"Mandala 247 SOJO HOTEL GA HANOI",
-        "image":[
-            {"photo":"/images/media1.png"},
-            {"photo":"/images/media2.png"},
-            {"photo":"/images/media3.png"},
-            {"photo":"/images/media4.png"},
-            {"photo":"/images/media5.png"},
-            {"photo":"/images/media6.png"}
+            "avatar": "/images/media1.png",
+            "province_code": "tinh_bac_giang",
+            "service_code": "EV"
+        },
+        {
+            "id": 5,
+            "title": "Mandala 247 SOJO HOTEL GA HANOI",
+            "image": [
+                {
+                    "photo": "/images/media1.png"
+                },
+                {
+                    "photo": "/images/media2.png"
+                },
+                {
+                    "photo": "/images/media3.png"
+                },
+                {
+                    "photo": "/images/media4.png"
+                },
+                {
+                    "photo": "/images/media5.png"
+                },
+                {
+                    "photo": "/images/media6.png"
+                }
             ],
-        "avatar":"/images/media1.png",
-        "province_code":"tinh_bac_ninh",
-        "service_code":"EV"
-    },{
-        "id":6,
-        "title":"Mandala 247 SOJO HOTEL GA HANOI",
-        "image":[
-            {"photo":"/images/media1.png"},
-            {"photo":"/images/media2.png"},
-            {"photo":"/images/media3.png"},
-            {"photo":"/images/media4.png"},
-            {"photo":"/images/media5.png"},
-            {"photo":"/images/media6.png"}
+            "avatar": "/images/media1.png",
+            "province_code": "tinh_bac_ninh",
+            "service_code": "EV"
+        },
+        {
+            "id": 6,
+            "title": "Mandala 247 SOJO HOTEL GA HANOI",
+            "image": [
+                {
+                    "photo": "/images/media1.png"
+                },
+                {
+                    "photo": "/images/media2.png"
+                },
+                {
+                    "photo": "/images/media3.png"
+                },
+                {
+                    "photo": "/images/media4.png"
+                },
+                {
+                    "photo": "/images/media5.png"
+                },
+                {
+                    "photo": "/images/media6.png"
+                }
             ],
-        "avatar":"/images/media1.png",
-        "province_code":"tinh_hai_duong",
-        "service_code":"EV"
-    },{
-        "id":7,
-        "title":"Mandala 247 SOJO HOTEL GA HANOI",
-        "image":[
-            {"photo":"/images/media1.png"},
-            {"photo":"/images/media2.png"},
-            {"photo":"/images/media3.png"},
-            {"photo":"/images/media4.png"},
-            {"photo":"/images/media5.png"},
-            {"photo":"/images/media6.png"}
+            "avatar": "/images/media1.png",
+            "province_code": "tinh_hai_duong",
+            "service_code": "EV"
+        },
+        {
+            "id": 7,
+            "title": "Mandala 247 SOJO HOTEL GA HANOI",
+            "image": [
+                {
+                    "photo": "/images/media1.png"
+                },
+                {
+                    "photo": "/images/media2.png"
+                },
+                {
+                    "photo": "/images/media3.png"
+                },
+                {
+                    "photo": "/images/media4.png"
+                },
+                {
+                    "photo": "/images/media5.png"
+                },
+                {
+                    "photo": "/images/media6.png"
+                }
             ],
-        "avatar":"/images/media1.png",
-        "province_code":"tinh_hai_duong",
-        "service_code":"GY"
-    },{
-        "id":8,
-        "title":"Mandala 247 SOJO HOTEL GA HANOI",
-        "image":[
-            {"photo":"/images/media1.png"},
-            {"photo":"/images/media2.png"},
-            {"photo":"/images/media3.png"},
-            {"photo":"/images/media4.png"},
-            {"photo":"/images/media5.png"},
-            {"photo":"/images/media6.png"}
+            "avatar": "/images/media1.png",
+            "province_code": "tinh_hai_duong",
+            "service_code": "GY"
+        },
+        {
+            "id": 8,
+            "title": "Mandala 247 SOJO HOTEL GA HANOI",
+            "image": [
+                {
+                    "photo": "/images/media1.png"
+                },
+                {
+                    "photo": "/images/media2.png"
+                },
+                {
+                    "photo": "/images/media3.png"
+                },
+                {
+                    "photo": "/images/media4.png"
+                },
+                {
+                    "photo": "/images/media5.png"
+                },
+                {
+                    "photo": "/images/media6.png"
+                }
             ],
-        "avatar":"/images/media1.png",
-        "province_code":"tinh_bac_giang",
-        "service_code":"GY"
-    },{
-        "id":9,
-        "title":"Mandala 247 SOJO HOTEL GA HANOI",
-        "image":[
-            {"photo":"/images/media1.png"},
-            {"photo":"/images/media2.png"},
-            {"photo":"/images/media3.png"},
-            {"photo":"/images/media4.png"},
-            {"photo":"/images/media5.png"},
-            {"photo":"/images/media6.png"}
+            "avatar": "/images/media1.png",
+            "province_code": "tinh_bac_giang",
+            "service_code": "GY"
+        },
+        {
+            "id": 9,
+            "title": "Mandala 247 SOJO HOTEL GA HANOI",
+            "image": [
+                {
+                    "photo": "/images/media1.png"
+                },
+                {
+                    "photo": "/images/media2.png"
+                },
+                {
+                    "photo": "/images/media3.png"
+                },
+                {
+                    "photo": "/images/media4.png"
+                },
+                {
+                    "photo": "/images/media5.png"
+                },
+                {
+                    "photo": "/images/media6.png"
+                }
             ],
-        "avatar":"/images/media1.png",
-        "province_code":"tinh_bac_ninh",
-        "service_code":"GY"
-    }]}
+            "avatar": "/images/media1.png",
+            "province_code": "tinh_bac_ninh",
+            "service_code": "GY"
+        }
+    ],
+    "Rooms": [
+        {
+            "id": 1,
+            "name": 101,
+            "code": 101,
+            "hotel_id": 1,
+            "start_date_empty": "01-09-2021",
+            "end_date_empty": "5-09-2021"
+        },
+        {
+            "id": 2,
+            "name": 102,
+            "code": 102,
+            "hotel_id": 1,
+            "start_date_empty": "01-09-2021",
+            "end_date_empty": "7-09-2021"
+        },
+        {
+            "id": 3,
+            "name": 103,
+            "code": 103,
+            "hotel_id": 2,
+            "start_date_empty": "03-09-2021",
+            "end_date_empty": "08-09-2021"
+        },
+        {
+            "id": 4,
+            "name": 104,
+            "code": 104,
+            "hotel_id": 2,
+            "start_date_empty": "06-09-2021",
+            "end_date_empty": "15-09-2021"
+        },
+        {
+            "id": 5,
+            "name": 105,
+            "code": 105,
+            "hotel_id": 3,
+            "start_date_empty": "09-09-2021",
+            "end_date_empty": "25-09-2021"
+        },
+        {
+            "id": 6,
+            "name": 106,
+            "code": 106,
+            "hotel_id": 3,
+            "start_date_empty": "10-09-2021",
+            "end_date_empty": "20-09-2021"
+        },
+        {
+            "id": 7,
+            "name": 107,
+            "code": 107,
+            "hotel_id": 4,
+            "start_date_empty": "12-09-2021",
+            "end_date_empty": "30-09-2021"
+        },
+        {
+            "id": 8,
+            "name": 108,
+            "code": 108,
+            "hotel_id": 4,
+            "start_date_empty": "23-09-2021",
+            "end_date_empty": "05-10-2021"
+        },
+        {
+            "id": 9,
+            "name": 109,
+            "code": 109,
+            "hotel_id": 1,
+            "start_date_empty": "20-09-2021",
+            "end_date_empty": "25-09-2021"
+        },
+        {
+            "id": 10,
+            "name": 110,
+            "code": 110,
+            "hotel_id": 2,
+            "start_date_empty": "01-10-2021",
+            "end_date_empty": "15-10-2021"
+        },
+        {
+            "id": 11,
+            "name": 111,
+            "code": 111,
+            "hotel_id": 3,
+            "start_date_empty": "03-11-2021",
+            "end_date_empty": "12-12-2021"
+        },
+        {
+            "id": 12,
+            "name": 112,
+            "code": 112,
+            "hotel_id": 1,
+            "start_date_empty": "05-09-2021",
+            "end_date_empty": "5-12-2021"
+        }
+    ]
+}
