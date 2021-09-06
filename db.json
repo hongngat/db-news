@@ -62,33 +62,6 @@
             "description": "Description News",
             "content": "Content News",
             "news_type": "EVN"
-        },
-        {
-            "id": 8,
-            "title": "Tin sự kiện 3",
-            "image": "/images/news1.png",
-            "time": "12/08/2021 08:34",
-            "description": "Description News",
-            "content": "Content News",
-            "news_type": "EVN"
-        },
-        {
-            "id": 9,
-            "title": "Tin sự kiện 4",
-            "image": "/images/news1.png",
-            "time": "12/08/2021 08:34",
-            "description": "Description News",
-            "content": "Content News",
-            "news_type": "EVN"
-        },
-        {
-            "id": 10,
-            "title": "Tin sự kiện 5",
-            "image": "/images/news1.png",
-            "time": "12/08/2021 08:34",
-            "description": "Description News",
-            "content": "Content News",
-            "news_type": "EVN"
         }
     ],
     "ServiceHotels": [
@@ -269,42 +242,72 @@
             "avatar": "/images/media1.png",
             "province_code": "tinh_hai_duong",
             "service_code": "GY"
+        }
+    ],
+    "Rooms": [
+        {
+            "id": 1,
+            "name": 101,
+            "code": 101,
+            "hotel_id": 1,
+            "start_date_empty": "01-09-2021",
+            "end_date_empty": "5-09-2021"
         },
         {
-            "id": 8,
-            "title": "Mandala 247 SOJO HOTEL GA HANOI",
-            "image": [
-                {
-                    "photo": "/images/media1.png"
-                },
-                {
-                    "photo": "/images/media2.png"
-                },
-                {
-                    "photo": "/images/media3.png"
-                }
-            ],
-            "avatar": "/images/media1.png",
-            "province_code": "tinh_bac_giang",
-            "service_code": "GY"
+            "id": 2,
+            "name": 102,
+            "code": 102,
+            "hotel_id": 2,
+            "start_date_empty": "01-09-2021",
+            "end_date_empty": "7-09-2021"
         },
         {
-            "id": 9,
-            "title": "Mandala 247 SOJO HOTEL GA HANOI",
-            "image": [
-                {
-                    "photo": "/images/media1.png"
-                },
-                {
-                    "photo": "/images/media2.png"
-                },
-                {
-                    "photo": "/images/media3.png"
-                }
-            ],
-            "avatar": "/images/media1.png",
-            "province_code": "tinh_bac_ninh",
-            "service_code": "GY"
+            "id": 3,
+            "name": 103,
+            "code": 103,
+            "hotel_id": 3,
+            "start_date_empty": "03-09-2021",
+            "end_date_empty": "08-09-2021"
+        },
+        {
+            "id": 4,
+            "name": 104,
+            "code": 104,
+            "hotel_id": 4,
+            "start_date_empty": "06-09-2021",
+            "end_date_empty": "15-09-2021"
+        },
+        {
+            "id": 5,
+            "name": 105,
+            "code": 105,
+            "hotel_id": 1,
+            "start_date_empty": "09-09-2021",
+            "end_date_empty": "25-09-2021"
+        },
+        {
+            "id": 6,
+            "name": 106,
+            "code": 106,
+            "hotel_id": 2,
+            "start_date_empty": "10-09-2021",
+            "end_date_empty": "20-09-2021"
+        },
+        {
+            "id": 7,
+            "name": 107,
+            "code": 107,
+            "hotel_id": 3,
+            "start_date_empty": "12-09-2021",
+            "end_date_empty": "30-09-2021"
+        },
+        {
+            "id": 7,
+            "name": 107,
+            "code": 107,
+            "hotel_id": 4,
+            "start_date_empty": "18-09-2021",
+            "end_date_empty": "30-09-2021"
         }
     ]
 }
