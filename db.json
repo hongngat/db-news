@@ -246,66 +246,66 @@
     ],
     "Rooms": [
         {
-            "id": 1,
-            "name": 101,
-            "code": 101,
-            "hotel_id": 1,
+            "id": "1",
+            "name": "101",
+            "code": "101",
+            "hotel_id": "1",
             "start_date_empty": "01-09-2021",
             "end_date_empty": "5-09-2021"
         },
         {
-            "id": 2,
-            "name": 102,
-            "code": 102,
-            "hotel_id": 2,
+            "id": "2",
+            "name": "102",
+            "code": "102",
+            "hotel_id": "2",
             "start_date_empty": "01-09-2021",
             "end_date_empty": "7-09-2021"
         },
         {
-            "id": 3,
-            "name": 103,
-            "code": 103,
-            "hotel_id": 3,
+            "id": "3",
+            "name": "103",
+            "code": "103",
+            "hotel_id": "3",
             "start_date_empty": "03-09-2021",
             "end_date_empty": "08-09-2021"
         },
         {
-            "id": 4,
-            "name": 104,
-            "code": 104,
-            "hotel_id": 4,
+            "id": "4",
+            "name": "104",
+            "code": "104",
+            "hotel_id": "4",
             "start_date_empty": "06-09-2021",
             "end_date_empty": "15-09-2021"
         },
         {
-            "id": 5,
-            "name": 105,
-            "code": 105,
+            "id": "5",
+            "name": "105",
+            "code": "105",
             "hotel_id": 1,
             "start_date_empty": "09-09-2021",
             "end_date_empty": "25-09-2021"
         },
         {
-            "id": 6,
-            "name": 106,
-            "code": 106,
-            "hotel_id": 2,
+            "id": "6",
+            "name": "106",
+            "code": "106",
+            "hotel_id": "2",
             "start_date_empty": "10-09-2021",
             "end_date_empty": "20-09-2021"
         },
         {
-            "id": 7,
-            "name": 107,
-            "code": 107,
-            "hotel_id": 3,
+            "id": "7",
+            "name": "107",
+            "code": "107",
+            "hotel_id": "3",
             "start_date_empty": "12-09-2021",
             "end_date_empty": "30-09-2021"
         },
         {
-            "id": 7,
-            "name": 107,
-            "code": 107,
-            "hotel_id": 4,
+            "id": "7",
+            "name": "107",
+            "code": "107",
+            "hotel_id": "4",
             "start_date_empty": "18-09-2021",
             "end_date_empty": "30-09-2021"
         }
