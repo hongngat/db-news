@@ -281,7 +281,7 @@
             "id": "5",
             "name": "105",
             "code": "105",
-            "hotel_id": 1,
+            "hotel_id": "1",
             "start_date_empty": "09-09-2021",
             "end_date_empty": "25-09-2021"
         },
